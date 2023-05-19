@@ -1,0 +1,15 @@
+C:\Users\conta\source\repos\BankRegister\BankRegister\bin\Debug\net6.0\BankRegister.exe
+C:\Users\conta\source\repos\BankRegister\BankRegister\bin\Debug\net6.0\BankRegister.deps.json
+C:\Users\conta\source\repos\BankRegister\BankRegister\bin\Debug\net6.0\BankRegister.runtimeconfig.json
+C:\Users\conta\source\repos\BankRegister\BankRegister\bin\Debug\net6.0\BankRegister.dll
+C:\Users\conta\source\repos\BankRegister\BankRegister\bin\Debug\net6.0\BankRegister.pdb
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.csproj.AssemblyReference.cache
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.AssemblyInfoInputs.cache
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.AssemblyInfo.cs
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.csproj.CoreCompileInputs.cache
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.dll
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\refint\BankRegister.dll
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.pdb
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\BankRegister.genruntimeconfig.cache
+C:\Users\conta\source\repos\BankRegister\BankRegister\obj\Debug\net6.0\ref\BankRegister.dll
